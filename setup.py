@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='jupyterpie',
-    version='1.0',
+    version='1.0.1',
     scripts=['jupyterpie'],
     license='MIT License',
     author='Chris Dong',

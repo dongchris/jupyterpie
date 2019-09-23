@@ -5,7 +5,7 @@ import sys
 
 
 def add_triple_quotes(string):
-    return '\n"""%s"""]\n' % string
+    return '\n"""%s"""\n' % string
 
 
 def join_list(lst):
